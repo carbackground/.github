@@ -1,6 +1,6 @@
 # carbackground.ai
 
-**carbackground.ai** (Car Background AI, formerly CarBG) is an AI car photo editor for car dealers. It turns ordinary photos taken on a lot or a street into studio and showroom listing photos, ready for dealer websites, marketplaces, social posts and ads.
+**carbackground.ai** (Car Background AI) is an AI car photo editor for car dealers. It turns ordinary photos taken on a lot or a street into studio and showroom listing photos, ready for dealer websites, marketplaces, social posts and ads.
 
 - Website: https://carbackground.ai
 - App: https://app.carbackground.ai
